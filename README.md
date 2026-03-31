@@ -1,4 +1,4 @@
-#### Color Detector 🎨🎥
+# Color Detector 🎨🎥
 ### 🚀 Project Overview
 This is a lightweight, real-time color detection app built with Python, OpenCV, NumPy, and Pillow.
 
